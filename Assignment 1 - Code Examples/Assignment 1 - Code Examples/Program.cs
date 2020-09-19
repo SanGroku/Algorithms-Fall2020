@@ -32,31 +32,33 @@ namespace Assignment_1___Code_Examples
             Console.ReadLine();
         }
 
-        //Constant O(1)
-        public static bool IsEven(int number)
+        //Constant O(1) -> Will always remain the same
+        public static bool IsEven(int number) //The user gives a number..
         {
-            return number % 2 == 0; 
+            return number % 2 == 0; //Is it divisible by 2?? Then it's even!
         }
 
-        //Linear O(n)
+        //Linear O(n) -> Will grow linearly based on input data size
         public static bool FindValue(String[] strings, String value)
         {
+            //Loops through the string of words
             for (int i = 0; i < strings.Length; i++)
             {
+                //if a value in the string is equal to the value the user inputs
                 if (strings[i] == value)
                 {
-                    return true; 
+                    return true; //The method is true!
                 }
             }
             return false;
         }
 
-        //Quadratic O(n^2)
+        //Quadratic O(n^2) -> Proportional to the square of the size of the input
         public static bool ContainsMultiple(List<string> elements)
         {
-            for (int count = 0; count < elements.Count; count++)
+            for (int count = 0; count < elements.Count; count++) //So this is O(n^1)
             {
-                for (int innerCount = 0; innerCount < elements.Count; innerCount++)
+                for (int innerCount = 0; innerCount < elements.Count; innerCount++) //And this is O(n^2) ???
                 {
                     if (count == innerCount)
                     {
