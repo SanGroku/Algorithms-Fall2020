@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w0JKgCVhC0KHMFrebJNQ9PoEPmDQPuaHjXLMBpdw56++6K9oWcTX8Gl/E9YmBcegGiJHPcTTDEoCLylUczlgLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Week 4_Assignment 2\\ExternalShuffler\\ExternalShuffler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

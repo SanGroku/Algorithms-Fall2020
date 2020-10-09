@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 4_Assignment 2", "Week 4_Assignment 2\Week 4_Assignment 2.csproj", "{213E58CC-B9EB-4995-A4A6-3571C94E5E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalShuffler", "ExternalShuffler\ExternalShuffler.csproj", "{2543F83D-B6D6-4EDF-839A-1FD94D93144B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213E58CC-B9EB-4995-A4A6-3571C94E5E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213E58CC-B9EB-4995-A4A6-3571C94E5E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213E58CC-B9EB-4995-A4A6-3571C94E5E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213E58CC-B9EB-4995-A4A6-3571C94E5E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2543F83D-B6D6-4EDF-839A-1FD94D93144B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2543F83D-B6D6-4EDF-839A-1FD94D93144B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2543F83D-B6D6-4EDF-839A-1FD94D93144B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2543F83D-B6D6-4EDF-839A-1FD94D93144B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {128CF891-92A2-42DB-921A-D467FCDF33E1}
+	EndGlobalSection
+EndGlobal
