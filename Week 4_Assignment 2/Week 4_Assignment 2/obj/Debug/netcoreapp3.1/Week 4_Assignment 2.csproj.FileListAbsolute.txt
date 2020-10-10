@@ -1,0 +1,16 @@
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\bin\Debug\netcoreapp3.1\Week 4_Assignment 2.exe
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\bin\Debug\netcoreapp3.1\Week 4_Assignment 2.deps.json
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\bin\Debug\netcoreapp3.1\Week 4_Assignment 2.runtimeconfig.json
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\bin\Debug\netcoreapp3.1\Week 4_Assignment 2.runtimeconfig.dev.json
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\bin\Debug\netcoreapp3.1\Week 4_Assignment 2.dll
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\bin\Debug\netcoreapp3.1\Week 4_Assignment 2.pdb
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\bin\Debug\netcoreapp3.1\ExternalShuffler.dll
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\bin\Debug\netcoreapp3.1\ExternalShuffler.pdb
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\obj\Debug\netcoreapp3.1\Week 4_Assignment 2.csprojAssemblyReference.cache
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\obj\Debug\netcoreapp3.1\Week 4_Assignment 2.AssemblyInfoInputs.cache
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\obj\Debug\netcoreapp3.1\Week 4_Assignment 2.AssemblyInfo.cs
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\obj\Debug\netcoreapp3.1\Week 4_Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\obj\Debug\netcoreapp3.1\Week 4_Assignment 2.csproj.CopyComplete
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\obj\Debug\netcoreapp3.1\Week 4_Assignment 2.dll
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\obj\Debug\netcoreapp3.1\Week 4_Assignment 2.pdb
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Week 4_Assignment 2\Week 4_Assignment 2\obj\Debug\netcoreapp3.1\Week 4_Assignment 2.genruntimeconfig.cache

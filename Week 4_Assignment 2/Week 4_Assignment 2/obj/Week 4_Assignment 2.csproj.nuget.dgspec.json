@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Week 4_Assignment 2\\Week 4_Assignment 2\\Week 4_Assignment 2.csproj": {}
+    "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Week 4_Assignment 2\\Week 4_Assignment 2\\Week 4_Assignment 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Week 4_Assignment 2\\ExternalShuffler\\ExternalShuffler.csproj": {
+    "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Week 4_Assignment 2\\ExternalShuffler\\ExternalShuffler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Week 4_Assignment 2\\ExternalShuffler\\ExternalShuffler.csproj",
+        "projectUniqueName": "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Week 4_Assignment 2\\ExternalShuffler\\ExternalShuffler.csproj",
         "projectName": "ExternalShuffler",
-        "projectPath": "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Week 4_Assignment 2\\ExternalShuffler\\ExternalShuffler.csproj",
+        "projectPath": "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Week 4_Assignment 2\\ExternalShuffler\\ExternalShuffler.csproj",
         "packagesPath": "C:\\Users\\Glasses Guy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Week 4_Assignment 2\\ExternalShuffler\\obj\\",
+        "outputPath": "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Week 4_Assignment 2\\ExternalShuffler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Week 4_Assignment 2\\Week 4_Assignment 2\\Week 4_Assignment 2.csproj": {
+    "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Week 4_Assignment 2\\Week 4_Assignment 2\\Week 4_Assignment 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Week 4_Assignment 2\\Week 4_Assignment 2\\Week 4_Assignment 2.csproj",
+        "projectUniqueName": "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Week 4_Assignment 2\\Week 4_Assignment 2\\Week 4_Assignment 2.csproj",
         "projectName": "Week 4_Assignment 2",
-        "projectPath": "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Week 4_Assignment 2\\Week 4_Assignment 2\\Week 4_Assignment 2.csproj",
+        "projectPath": "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Week 4_Assignment 2\\Week 4_Assignment 2\\Week 4_Assignment 2.csproj",
         "packagesPath": "C:\\Users\\Glasses Guy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Week 4_Assignment 2\\Week 4_Assignment 2\\obj\\",
+        "outputPath": "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Week 4_Assignment 2\\Week 4_Assignment 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -92,8 +92,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Week 4_Assignment 2\\ExternalShuffler\\ExternalShuffler.csproj": {
-                "projectPath": "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Week 4_Assignment 2\\ExternalShuffler\\ExternalShuffler.csproj"
+              "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Week 4_Assignment 2\\ExternalShuffler\\ExternalShuffler.csproj": {
+                "projectPath": "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Week 4_Assignment 2\\ExternalShuffler\\ExternalShuffler.csproj"
               }
             }
           }
