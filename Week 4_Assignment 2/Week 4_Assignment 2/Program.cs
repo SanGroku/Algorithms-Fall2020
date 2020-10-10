@@ -6,6 +6,11 @@ using ExternalShuffler;
 
 namespace Week_4_Assignment_2
 {
+    /*
+     * Note: Please make a folder on your C: drive 
+     * named "temp" and file name "ShuffleText"
+     * In order for this program to work! :)
+     */
     class Program
     {
         static void Main(string[] args)
