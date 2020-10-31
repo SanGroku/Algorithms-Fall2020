@@ -1,0 +1,13 @@
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 3 - Data Structures\Assignment 3 - Data Structures\bin\Debug\netcoreapp3.1\Assignment 3 - Data Structures.exe
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 3 - Data Structures\Assignment 3 - Data Structures\bin\Debug\netcoreapp3.1\Assignment 3 - Data Structures.deps.json
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 3 - Data Structures\Assignment 3 - Data Structures\bin\Debug\netcoreapp3.1\Assignment 3 - Data Structures.runtimeconfig.json
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 3 - Data Structures\Assignment 3 - Data Structures\bin\Debug\netcoreapp3.1\Assignment 3 - Data Structures.runtimeconfig.dev.json
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 3 - Data Structures\Assignment 3 - Data Structures\bin\Debug\netcoreapp3.1\Assignment 3 - Data Structures.dll
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 3 - Data Structures\Assignment 3 - Data Structures\bin\Debug\netcoreapp3.1\Assignment 3 - Data Structures.pdb
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 3 - Data Structures\Assignment 3 - Data Structures\obj\Debug\netcoreapp3.1\Assignment 3 - Data Structures.csprojAssemblyReference.cache
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 3 - Data Structures\Assignment 3 - Data Structures\obj\Debug\netcoreapp3.1\Assignment 3 - Data Structures.AssemblyInfoInputs.cache
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 3 - Data Structures\Assignment 3 - Data Structures\obj\Debug\netcoreapp3.1\Assignment 3 - Data Structures.AssemblyInfo.cs
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 3 - Data Structures\Assignment 3 - Data Structures\obj\Debug\netcoreapp3.1\Assignment 3 - Data Structures.csproj.CoreCompileInputs.cache
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 3 - Data Structures\Assignment 3 - Data Structures\obj\Debug\netcoreapp3.1\Assignment 3 - Data Structures.dll
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 3 - Data Structures\Assignment 3 - Data Structures\obj\Debug\netcoreapp3.1\Assignment 3 - Data Structures.pdb
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 3 - Data Structures\Assignment 3 - Data Structures\obj\Debug\netcoreapp3.1\Assignment 3 - Data Structures.genruntimeconfig.cache

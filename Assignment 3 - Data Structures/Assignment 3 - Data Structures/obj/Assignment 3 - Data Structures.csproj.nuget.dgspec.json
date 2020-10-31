@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures.csproj": {}
+    "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures.csproj": {
+    "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures.csproj",
+        "projectUniqueName": "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures.csproj",
         "projectName": "Assignment 3 - Data Structures",
-        "projectPath": "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures.csproj",
+        "projectPath": "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures.csproj",
         "packagesPath": "C:\\Users\\Glasses Guy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Glasses Guy\\Documents\\School Work\\Senior Year 2019-2020\\Fall 2020\\Algorithms\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures\\obj\\",
+        "outputPath": "C:\\Users\\Glasses Guy\\Documents\\GitHub\\Algorithms-Fall2020\\Assignment 3 - Data Structures\\Assignment 3 - Data Structures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Assignment_3___Data_Structures
 {
-    class MapExample
+    class StackvsQueue
     {
     }
 }
