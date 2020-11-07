@@ -15,6 +15,8 @@ namespace Assignment_3___Data_Structures
             arrayvsMap.MakeMap();
 
             //Call the methods for StackvsQueue
+            stackvsQueue.MakeStack();
+            stackvsQueue.MakeQueue();
 
             Console.ReadLine();
         }
