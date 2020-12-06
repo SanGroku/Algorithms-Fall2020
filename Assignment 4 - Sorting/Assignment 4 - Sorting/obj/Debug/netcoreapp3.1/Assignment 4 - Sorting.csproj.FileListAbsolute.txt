@@ -1,0 +1,13 @@
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 4 - Sorting\Assignment 4 - Sorting\bin\Debug\netcoreapp3.1\Assignment 4 - Sorting.exe
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 4 - Sorting\Assignment 4 - Sorting\bin\Debug\netcoreapp3.1\Assignment 4 - Sorting.deps.json
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 4 - Sorting\Assignment 4 - Sorting\bin\Debug\netcoreapp3.1\Assignment 4 - Sorting.runtimeconfig.json
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 4 - Sorting\Assignment 4 - Sorting\bin\Debug\netcoreapp3.1\Assignment 4 - Sorting.runtimeconfig.dev.json
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 4 - Sorting\Assignment 4 - Sorting\bin\Debug\netcoreapp3.1\Assignment 4 - Sorting.dll
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 4 - Sorting\Assignment 4 - Sorting\bin\Debug\netcoreapp3.1\Assignment 4 - Sorting.pdb
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 4 - Sorting\Assignment 4 - Sorting\obj\Debug\netcoreapp3.1\Assignment 4 - Sorting.csprojAssemblyReference.cache
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 4 - Sorting\Assignment 4 - Sorting\obj\Debug\netcoreapp3.1\Assignment 4 - Sorting.AssemblyInfoInputs.cache
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 4 - Sorting\Assignment 4 - Sorting\obj\Debug\netcoreapp3.1\Assignment 4 - Sorting.AssemblyInfo.cs
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 4 - Sorting\Assignment 4 - Sorting\obj\Debug\netcoreapp3.1\Assignment 4 - Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 4 - Sorting\Assignment 4 - Sorting\obj\Debug\netcoreapp3.1\Assignment 4 - Sorting.dll
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 4 - Sorting\Assignment 4 - Sorting\obj\Debug\netcoreapp3.1\Assignment 4 - Sorting.pdb
+C:\Users\Glasses Guy\Documents\GitHub\Algorithms-Fall2020\Assignment 4 - Sorting\Assignment 4 - Sorting\obj\Debug\netcoreapp3.1\Assignment 4 - Sorting.genruntimeconfig.cache
