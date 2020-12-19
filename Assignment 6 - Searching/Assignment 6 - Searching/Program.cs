@@ -30,6 +30,7 @@ namespace Assignment_6___Searching
             //Run the Binary search
             BinarySearch binary = new BinarySearch();
             binary.binaryDescription();
+            binary.doBinarySearch(convertFile, secondSearch);
 
             //run the interpolation search
             InterpolationSearch interpolation = new InterpolationSearch();

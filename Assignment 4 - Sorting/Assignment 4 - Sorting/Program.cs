@@ -29,19 +29,20 @@ namespace Assignment_4___Sorting
 
             //Run the Selection sort algorithm
             SelectionSort selectionSort = new SelectionSort();
-
+            selectionSort.selectionDescription();
+            selectionSort.doSelectSort(convertFile);
 
             //Run the Heap sort algorithm
             HeapSort heapSort = new HeapSort();
-
+            heapSort.heapDescription();
 
             //Run the Quick sort algorithm
             QuickSort quickSort = new QuickSort();
-
+            quickSort.quickDescription();
 
             //Run the Merge sort algorithm
             MergeSort mergeSort = new MergeSort();
-
+            quickSort.quickDescription();
         }
     }
 }

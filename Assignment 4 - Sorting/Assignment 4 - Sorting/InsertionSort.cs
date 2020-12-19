@@ -52,6 +52,30 @@ namespace Assignment_4___Sorting
             //Now sort
             Console.WriteLine("\n\nHere are the insertion sorted values:\n");
 
+            for (int i = 0; i < values.Length - 1; i++)
+            {
+                int j = i + 1;
+                var insertValue = values[j];
+
+                for (j = 1; j > 0; j--)
+                {
+                    if (values[j - 1] > insertValue)
+                    {
+                        values[j] = values[j - 1];
+                    }
+                }
+                values[j] = insertValue;
+            }
+
+            //Display the values
+            foreach (int b in values)
+            {
+                Console.Write(b + " ");
+            }
+
+            Console.WriteLine("\n\n[Press Any Key to Continue]");
+            Console.ReadKey();
+            Console.Clear();
         }
     }
 }
