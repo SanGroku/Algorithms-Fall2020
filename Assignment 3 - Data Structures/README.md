@@ -1,5 +1,5 @@
 # Assignment 3 - Data Structures
-**Data Structures** - A data structure is a specific wat of organizing data in a computer so that it can be used in the most efficient way possible. 
+**Data Structures** - A data structure is a specific way of organizing data in a computer so that it can be used in the most efficient way possible. 
 
 ## This week we learned about..
 - Arrays
